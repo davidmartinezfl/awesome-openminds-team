@@ -7,6 +7,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
+        * [Learn Cyber Security](#learn-cyber-security)
         * [Learn Data Science](#learn-data-science)
         * [Open Hardware](#open-hardware)
         * [Design](#design)
@@ -128,6 +129,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [ELIS e-learning portal](https://free.aicte-india.org/ms-products.php): Over 1526 **free** course modules from Microsoft in collaboration with AICTE.
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/): platform to learn Web Design, DSA, ML, etc.
 * [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
+
+### Learn Cyber Security
+* [Hack The Box](https://www.hackthebox.eu/): An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs
+* [TryHackMe](https://tryhackme.com): An online platform for learning and teaching cyber security, all through your browser.
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
